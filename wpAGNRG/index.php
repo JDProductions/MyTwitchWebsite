@@ -10,7 +10,7 @@
 
     <!-- Le styles -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
-    <link href="assets/style.css" rel="stylesheet">
+    <link href="<?php bloginfo('assets/style.css');?>" rel="stylesheet">
     <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
     <style>
 
