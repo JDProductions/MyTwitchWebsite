@@ -28,6 +28,11 @@
                     <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">
                                    <link rel="shortcut icon" href="../assets/ico/favicon.png">
   </head>
+
+<?php
+  get_header();
+?>
+
     <!-- Carousel
     ================================================== -->
     <div id="myCarousel" class="carousel slide">
